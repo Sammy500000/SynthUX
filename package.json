@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@auth/pg-adapter": "^1.10.0",
+    "@google/generative-ai": "^0.24.1",
+    "@slack/web-api": "^7.9.3",
+    "jira-client": "^8.2.2",
+    "minio": "^8.0.5",
+    "next-auth": "^4.24.11",
+    "pg": "^8.16.3",
+    "playwright": "^1.54.1",
+    "stripe": "^18.3.0",
+    "tesseract.js": "^6.0.1"
+  },
+  "devDependencies": {
+    "@swc/jest": "^0.2.39",
+    "@testing-library/jest-dom": "^6.6.4",
+    "jest": "^30.0.5",
+    "jest-environment-jsdom": "^30.0.5",
+    "ts-node": "^10.9.2"
+  }
+}
